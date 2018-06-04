@@ -1,7 +1,7 @@
 'use strict';
 
 const config = {
-    token: '522963497:AAHqxjkzZOkc-LCnfZ4Naz9dHcjcImcK4GAA',
+    token: 'TOKEN_API',
     botOption: {
         autoUpdate: true,
         autoChatAction: true,
